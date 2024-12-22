@@ -78,6 +78,9 @@ function App() {
           </p>
         </div>
       )}
+      <div className="credits">
+        <p>Made by <a href="https://github.com/sudharshans2009">Sudharshan S</a></p>
+      </div>
     </div>
   );
 }
