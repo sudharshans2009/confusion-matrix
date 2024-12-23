@@ -44,7 +44,7 @@ button:hover {
   border: 1px solid #ddd;
 }
 .credits {
-  position: absolute;
+  position: fixed;
   bottom: 15px;
   /* background-color: red; */
   left: 0;
